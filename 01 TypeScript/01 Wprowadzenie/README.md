@@ -2,20 +2,34 @@
 
 ## Przydatne linki:
 [typescriptlang.org](https://www.typescriptlang.org)
+
 [Typescript Cheatsheet](https://www.typescriptlang.org/cheatsheets/)
+
 [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+
 [Typescript From Scratch](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
+
 [TypeScript Coding Guidelines](https://github.com/microsoft/TypeScript/wiki/Coding-guidelines
 )
+
 [A curated list of tools, libraries, frameworks, and resources for TypeScript.](https://github.com/brandonhimpfen/awesome-typescript)
+
 [roadmap.sh - TypeScript](https://roadmap.sh/typescript)
+
 [YT - Where TypeScript Excels](https://www.youtube.com/watch?v=BUo7B6UuoJ4)
+
 [What is TypeScript](https://thenewstack.io/what-is-typescript/)
+
 [Microsoft for JavaScript developers](https://developer.microsoft.com/en-gb/javascript/)
+
 [Discord - Typescript community](https://discord.com/invite/typescript)
+
 [stackoverflow - tag TypeScript](https://stackoverflow.com/questions/tagged/typescript)
+
 [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
 [TypeScript Examples](https://www.typescriptlang.org/play/?#code/PTAEEEDsE9QSwM6gC4AsCmoAq0AO6BlAYwCc5dlR0EiBDfUIgG1oFcF0A6UATQHtWjWpFDtMw2Mj4AoEFThp0JUABN0zWiXGgORZHD4i+AM1DQByonzUo+oAEaYV0SLQC2cIqGErZYAFK0AG60xGQUoExwANboADSgfMpSoADuSdHeJAKQKpFwHsi0+oZIcCKKfih4mAjQCMjobpzSVeCgAOZ81kIcoMZJ3jDwSP4EAPIAcqC4mgjlHQBcrVaQDaBu0OP2AFbqlAC8oGNTnLMkHAAUAEQA3gC+1wCUANytclCwahpaSCk4+DC5EoKWQJHYlHMrEs1nESEcCyqCFoxkwjjoYjMAlA0UgfFSGyS4nsAkoCm4AFEgugRHBTGhiiMqnjKA0yHomJJwVxQAAxQboAAe7lwTHiKFQiEYsLSAiYeVItAQqGW0k22z2ek4gs40E4AC83lUAKrzSAdIZDWAdODUpBQiXEuBRZCSOypMiNaU2Zh8DjJGRyJJwG2uJjHYKhUjAtIKVCOlAkWhqAC0JlMJmqDGRqNdLSqEhGG1YRHjUVi3lAAHJXQxUs6VHQSCoq2lJaWsYI6CItKLaER0FV62grVnMJchQOIpB0NSSE9bBtaBXDJha3D5h1XPYxVVQRhEooSPnviwtP1WJA9AYRGp7KwOpcQkxWOhFlanu+gnw4CojXeHxuWgdDBBZnjeADHwAJgAZleaRIMuW5pSYJJ32uHdX2uUB7ngqoKX7eM6CYcMUkgotaBI-F0DydE2D6B0rFYeVQF7FgB0dAthmHeNFDHRJ6QPTQOlYNwaRBOw3GKUt8zkAFCGjCJ6xIlBl0wcoUn7JjIBBA9cD9BQbwEzi5AkMpbzpVEtB0-okjcBAEgGZQhRFMVYxHRQ+mQVhRWoKonITYxL2vQwshEsSdJPdQz0wIKrxKEQEFSehLkFd8AG1IFExwSASNkFgAXU-UB0vy80EiytwcoK-9os0TBVnWWY4BIDKJASCQaukJKUua+cjTkg9iNIuwetwCiqNSGiHHUei1yEkhwvEoQREcKopOQUtpvsWA2P7BZApa9ZC3KGZaBa9z40qnKuLyPjdEMPIAAMJCey6QLIc1ZLAABJekfLFJB6tAGcCRSKE8vQN8qGFNxfMWbzfIQd4wGNSBcXxWkgZ0OAdwO9dF3a+BTBOoGSVYVlaGgRE5GuH6cTxAlUlQYoq3hahkGuBJFBES8MdSLHK2St0dCp0A6arNxmT4VloUwZnGSlRwGjyuwHRnabQXQFSsAIBN12uKoXLhsVFj5xnIBTHwUxnOdpCAA)
+
 https://www.plukasiewicz.net/TypeScript/Introduction
 https://www.typescriptlang.org/why-create-typescript/
 https://www.freecodecamp.org/news/search/?query=typescript
