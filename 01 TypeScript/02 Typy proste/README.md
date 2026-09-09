@@ -6,6 +6,14 @@
 `any`
 
 ```typescript
+let ciag: string = "Text";
+let cyfry: number = 12;
+let wartosc: boolean = true;
+let tablica: string[] = ["a","b","c"];
+
+type czlowiek = {
+imie: string
+}
 let obj: any = { x: 0 };
 // None of the following lines of code will throw compiler errors.
 // Using `any` disables all further type checking, and it is assumed
