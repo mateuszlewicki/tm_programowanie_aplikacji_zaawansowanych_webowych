@@ -88,25 +88,19 @@ tsc app.ts util.ts --target esnext --outfile index.js
 > lub
 > npm exec -- tsc
 
-## plik `tsconfig.json`
+## Przykładowy plik `tsconfig.json` po wykonaniu polecenia `tsc --init`
 ```json
 {
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
-     // #+ WAŻNE +#
-    // PONIŻSZE WARTOŚCI "rootDir" i "outDir" UŻYWAMY NA PRACOWNI
-    "rootDir": "./src",
-    "outDir": "./public",
-    // #- WAŻNE -#
+    // "rootDir": "./src",
+    // "outDir": "./dist",
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    // #+ WAŻNE +#
-    // PONIŻSZE WARTOŚCI "module" i "target" UŻYWAMY NA PRACOWNI
-    "module": "es2022",
-    "target": "es2024",
-    // #- WAŻNE -#
+    "module": "nodenext",
+    "target": "esnext",
     "types": [],
     // For nodejs:
     // "lib": ["esnext"],
@@ -140,8 +134,15 @@ tsc app.ts util.ts --target esnext --outfile index.js
     "skipLibCheck": true,
   }
 }
-
 ```
+
+> [!IMPORTANT]
+> Domyślny plik `tsconfig.json`, którego używamy do zajęć z samym tylko TypeScriptem, znajduje się w tym katalogu.
+>
+> ścieżka: `tm_programowanie_aplikacji_zaawansowanych_webowych/01 TypeScript/01 Wprowadzenie/tsconfig.json`
+>
+> [tsconfig.json](./tsconfig.json)
+
 ## pliki wynikowe
 ### plik `${name}.js` 
 plik zawierający transpilowany kod, który możemu użyć w naszej aplikacji/stronie/przeglądarce
