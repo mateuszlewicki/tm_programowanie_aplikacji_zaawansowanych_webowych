@@ -94,8 +94,11 @@ tsc app.ts util.ts --target esnext --outfile index.js
   // Visit https://aka.ms/tsconfig to read more about this file
   "compilerOptions": {
     // File Layout
+     // #+ WAŻNE +#
+    // PONIŻSZE WARTOŚCI "rootDir" i "outDir" UŻYWAMY NA PRACOWNI
     "rootDir": "./src",
-    "outDir": "./dist",
+    "outDir": "./public",
+    // #- WAŻNE -#
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
