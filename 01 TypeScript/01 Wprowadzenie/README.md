@@ -99,8 +99,11 @@ tsc app.ts util.ts --target esnext --outfile index.js
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    "module": "esnext",
-    "target": "es2025",
+    // #- WAŻNE -#
+    // PONIŻSZE WARTOŚCI "module" i "target" UŻYWAMY NA PRACOWNI
+    "module": "es2022",
+    "target": "es2024",
+    // #- WAŻNE -#
     "types": [],
     // For nodejs:
     // "lib": ["esnext"],
