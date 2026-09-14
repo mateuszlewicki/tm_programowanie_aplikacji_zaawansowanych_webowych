@@ -143,7 +143,7 @@ tsc app.ts util.ts --target esnext --outfile index.js
 >
 > [tsconfig.json](./tsconfig.json)
 
-## pliki wynikowe
+## Możliwe pliki wynikowe
 ### plik `${name}.js` 
 plik zawierający transpilowany kod, który możemu użyć w naszej aplikacji/stronie/przeglądarce
 
