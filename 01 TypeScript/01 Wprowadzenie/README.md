@@ -57,6 +57,7 @@ flowchart LR;
 
 ## Jak zainstalować TypeScript 
 Wewnątrz projektu: `npm install typescript`
+
 Globalnie: `npm install -g typescript`
 > [!NOTE]
 > `npm` to skrót od `node package manager`,by go używać należy pobrać `NodeJS` 
@@ -78,6 +79,14 @@ tsc index.js --declaration --emitDeclarationOnly
 tsc app.ts util.ts --target esnext --outfile index.js
 ``` 
 >źródło: https://www.typescriptlang.org/docs/handbook/compiler-options.html
+
+> [!NOTE]
+> Jeżeli zainstalowaliśmy `typescript` lokalnie, to komendę `tsc` musimy poprzedzić komendą `npx` lub `npm exec --`.
+> Czyli wołanie lokalne kompilatora `tsc` powinno wyglądać następująco:
+> ```bash
+> npx tsc
+> lub
+> npm exec -- tsc
 
 ## plik `tsconfig.json`
 ```json
