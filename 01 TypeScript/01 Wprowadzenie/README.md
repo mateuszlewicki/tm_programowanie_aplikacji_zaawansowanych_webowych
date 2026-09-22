@@ -62,6 +62,9 @@ Globalnie: `npm install -g typescript`
 > [!NOTE]
 > `npm` to skrót od `node package manager`,by go używać należy pobrać `NodeJS` 
 
+> [!IMPORTANT]
+> Folder `node_modules`, który się pojawi po wykonaniu komendy `npm install` zawiera pliki, które nie muszą a nawet nie powinny znaleźć się w repozytorium. Dlatego zaleca się, by utworzyć plik `/.gitignore` z zapisanym wewnątrz `node_modules`
+
 
 ## `tsc` kompilator TypeScript
 ```bash
