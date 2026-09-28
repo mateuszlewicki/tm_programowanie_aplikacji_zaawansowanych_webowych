@@ -25,6 +25,10 @@ function buildList(){
     todosContainer.innerHTML = "";
     arrayOfTodos.forEach(element => {
         let container = document.createElement("div");
+        container.classList.add("card-body");
+
+        let container2 = document.createElement("div");
+        container2.classList.add("card");
 
         let title = document.createElement('h3');
         let id = document.createElement('p');
