@@ -23,3 +23,5 @@ class TodoEntry {
             `;
     }
 }
+
+export default TodoEntry;
