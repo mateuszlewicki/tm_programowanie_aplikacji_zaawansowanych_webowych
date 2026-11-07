@@ -1,4 +1,4 @@
-# Materiały do przedmiotu Programowanie Aplikacji Zaawansowanych Webowych.
+# Programowanie Aplikacji Zaawansowanych Webowych - Materiały do przedmiotu.
 prowadzący - inż. Mateusz Lewicki
 
 Drodzy Państwo, przedstawiam wam repozytorium na którym znajdują się
