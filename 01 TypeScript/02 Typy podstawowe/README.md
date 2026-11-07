@@ -125,7 +125,7 @@ const users: User[] = [
 
 ```
 
-Ponadto możesz użyć generycznego typu tablicowego Array<elementType> do tworzenia tablic:
+Ponadto możesz użyć generycznego typu tablicowego `Array<elementType>` do tworzenia tablic:
 
 ```typescript
 const scores: Array<number> = [1, 2, 3, 4, 5];
